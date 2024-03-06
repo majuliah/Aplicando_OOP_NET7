@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb6f86b-2680-40d2-b3da-2e1784576749" name="Changes" comment="" />
+    <list default="true" id="4eb6f86b-2680-40d2-b3da-2e1784576749" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Notas.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmBuilder.Core/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core/Utm.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2dFOBZopUrz5daUBmw3TMDiOnVy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,8 +30,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\majul\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\majul\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\majul\\AppData\\Local\\Symbols\\src"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709600227980</updated>
       <workItem from="1709600234634" duration="120000" />
+      <workItem from="1709690631529" duration="750000" />
     </task>
     <servers />
   </component>
