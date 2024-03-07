@@ -6,5 +6,5 @@ public class Url: ValueObject
     {
         Adress = adress;
     }
-    public string Adress { get; }
+    public string Adress { get; } //não ter set = não altera | ter private set = altera dentro da classe
 }
