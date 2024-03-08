@@ -7,6 +7,8 @@
     <list default="true" id="4eb6f86b-2680-40d2-b3da-2e1784576749" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UtmBuilder.Core/Utm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core/Utm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmBuilder.Core/ValueObjects/Campaign.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core/ValueObjects/Campaign.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmBuilder.Core/ValueObjects/Url.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core/ValueObjects/Url.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,26 +26,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\majul\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\majul\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\majul\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\majul\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\majul\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\majul\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,6 +56,8 @@
       <updated>1709600227980</updated>
       <workItem from="1709600234634" duration="120000" />
       <workItem from="1709690631529" duration="1400000" />
+      <workItem from="1709775346650" duration="1162000" />
+      <workItem from="1709858197007" duration="1371000" />
     </task>
     <servers />
   </component>
