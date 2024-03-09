@@ -1,7 +1,10 @@
+using System.Text.RegularExpressions;
+
 namespace UtmBuilder.Core.ValueObjects;
 
 public class Url: ValueObject
 {
+    private const string UrlRegexPattern = @"";
     /// <summary>
     /// Creates a new url
     /// </summary>
@@ -9,6 +12,10 @@ public class Url: ValueObject
     public Url(string adress)
     {
         Adress = adress;
+        if (Regex.IsMatch(Adress, UrlRegexPattern))
+        {
+            throw new Exception("Teste");
+        }
     }
     /// <summary>
     /// Adress of url 
