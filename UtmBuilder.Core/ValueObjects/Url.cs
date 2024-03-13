@@ -5,7 +5,6 @@ namespace UtmBuilder.Core.ValueObjects;
 
 public class Url: ValueObject
 {
-    private const string UrlRegexPattern = @"";
     /// <summary>
     /// Creates a new url
     /// </summary>
@@ -13,10 +12,7 @@ public class Url: ValueObject
     public Url(string adress)
     {
         Adress = adress;
-        if (Regex.IsMatch(Adress, UrlRegexPattern))
-        {
-            throw new InvalidUrlException();
-        }
+        InvalidUrlException.ThrowIfInvalidUrl(adress);
     }
     /// <summary>
     /// Adress of url 
