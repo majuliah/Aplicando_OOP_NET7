@@ -23,7 +23,11 @@ public class Utm
     public override string ToString()
     {
         var segments = new List<string>();
-        segments.AddIfNotNull();
+        segments.AddIfNotNull("utm_source", Campaign.Source);
+        segments.AddIfNotNull("utm_medium", Campaign.Source);
+        segments.AddIfNotNull("utm_id", Campaign.Id);
+        segments.AddIfNotNull("utm_term", Campaign.Term);
+        segments.AddIfNotNull("utm_content", Campaign.Content);
         return $"{Url.Adress}?{string.Join("&", segments)}";
     }
 }

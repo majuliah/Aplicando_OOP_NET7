@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb6f86b-2680-40d2-b3da-2e1784576749" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmBuilder.Core/Utm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core/Utm.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UtmBuilder.Core/ValueObjects/Url.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core/ValueObjects/Url.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +62,7 @@
       <workItem from="1710117174762" duration="1530000" />
       <workItem from="1710289668790" duration="2251000" />
       <workItem from="1710463348038" duration="2264000" />
+      <workItem from="1710545157157" duration="2594000" />
     </task>
     <servers />
   </component>
