@@ -18,10 +18,5 @@ public class Url: ValueObject
     /// </summary>
     /// <param name="Attribute"></param>
     public string Adress { get; } //não ter set = não altera | ter private set = altera dentro da classe
-
-    public override string ToString()
-    {
-        var str = string.Join("&", null);
-        return "";
-    }
+    
 }
