@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb6f86b-2680-40d2-b3da-2e1784576749" name="Changes" comment="" />
+    <list default="true" id="4eb6f86b-2680-40d2-b3da-2e1784576749" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtmBuilder.Core/Utm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core/Utm.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/System.Private.CoreLib/src/System/Object.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -60,6 +66,8 @@
       <workItem from="1710463348038" duration="2264000" />
       <workItem from="1710545157157" duration="2594000" />
       <workItem from="1710621858512" duration="4204000" />
+      <workItem from="1710713065048" duration="499000" />
+      <workItem from="1710809190115" duration="673000" />
     </task>
     <servers />
   </component>
