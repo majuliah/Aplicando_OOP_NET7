@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eb6f86b-2680-40d2-b3da-2e1784576749" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aplicando_OOP_NET7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UtmBuilder.Core.Tests/obj/Debug/net8.0/UtmBuilder.Core.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core.Tests/obj/Debug/net8.0/UtmBuilder.Core.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UtmBuilder.Core.Tests/obj/Debug/net8.0/UtmBuilder.Core.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UtmBuilder.Core.Tests/obj/Debug/net8.0/UtmBuilder.Core.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-    </list>
+    <list default="true" id="4eb6f86b-2680-40d2-b3da-2e1784576749" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +68,7 @@
       <workItem from="1710886534191" duration="1866000" />
       <workItem from="1711067090252" duration="790000" />
       <workItem from="1711150552124" duration="2066000" />
+      <workItem from="1711235684193" duration="1281000" />
     </task>
     <servers />
   </component>
